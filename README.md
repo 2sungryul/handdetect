@@ -15,7 +15,7 @@ $ make
 
 $ ./handdetect
 
-#What to do on Windows
+# What to do on Windows
 Open the command prompt and download gst1.bat in a working directory
 
 \> gst1.bat

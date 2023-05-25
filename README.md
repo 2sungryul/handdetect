@@ -5,7 +5,7 @@ This is the hand detector using Yolov4 tiny model.
 The Yolo weight and cfg files were taken from https://github.com/cansik/yolo-hand-detection
 
 # What to do on Jetson nano
-How to download, build, and execute on Jetson nano
+How to download, build, and run on Jetson nano
 
 $ git clone https://github.com/2sungryul/handdetect.git
 

@@ -4,7 +4,7 @@ This is the hand detector using Yolov4 tiny model.
 
 The Yolo weight and cfg files were taken from https://github.com/cansik/yolo-hand-detection
 
-Dependency : OpenCV 4.6 with CUDA support
+Dependency : OpenCV 4.6 with CUDA support, Gstreamer for Windows and Linux
 
 # What to do on Jetson nano
 How to download, build, and run on Jetson nano

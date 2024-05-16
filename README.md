@@ -1,6 +1,6 @@
 # handdetect
 
-This is the hand detector using Yolov4 tiny model.
+Hand detector using Yolov4 tiny model.
 
 The Yolo weight and cfg files were taken from https://github.com/cansik/yolo-hand-detection
 
